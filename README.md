@@ -1,6 +1,8 @@
 # webchat
 use git clone
 
+cd into the repository,
+
 then npm install
 
 then npm start
